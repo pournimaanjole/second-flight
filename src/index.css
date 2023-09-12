@@ -1,0 +1,16 @@
+.maincontainer{
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 200px;
+    width: 700px;
+    padding-left: 10px;
+    margin-top: 20px;
+
+
+}
+.inligelemtn{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
